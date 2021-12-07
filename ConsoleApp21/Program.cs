@@ -29,6 +29,7 @@ namespace ConsoleApp21
             sc = 5.4d;
             var sc2 = 5.4d;
 
+            Console.WriteLine("SUPER DZIAŁA 1");
 
             var zmienna = 10;
             Console.WriteLine(zmienna.GetType());
