@@ -26,8 +26,6 @@ namespace ConsoleApp21
 
             
             sc = 5.4d;
-            sc = 5.4d;
-            var sc2 = 5.4d;
 
 
             var zmienna = 10;
